@@ -861,6 +861,6 @@ int main()
 {
 	vector <book> books;
 	load_books_from_file(books, "lib.txt");
-  
+ 
 	main_menu(books);
 }
