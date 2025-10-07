@@ -804,13 +804,13 @@ void main_menu(vector <book> &books)
 		case 3:
 			system("cls");
 			Display_all_books(books);
-			cout << "Press any key to go back...";
+			cout << "Press any key to go back to main menu...";
 			_getch();
 			break;
 		case 4:
 			system("cls");
 			Display_favourites(books);
-			cout << "Press any key to go back... ";
+			cout << "Press any key to go back to main menu... ";
 			_getch();
 			break;
 		case 5:
@@ -829,7 +829,7 @@ void main_menu(vector <book> &books)
 		case 7:
 			system("cls");
 			Display_wishlist_method(books);
-			cout << "Press any key to go back... ";
+			cout << "Press any key to go back to main menu... ";
 			_getch();
 			break;
 		case 8:
@@ -838,7 +838,7 @@ void main_menu(vector <book> &books)
 			cin.ignore(numeric_limits<streamsize>::max(), '\n');
 			getline(cin, Genre);
 			Display_categorized_books_method(books, Genre);
-			cout << "Press any key to go back... ";
+			cout << "Press any key to go back to main menu... ";
 			_getch();
 			break;
 		case 9:
