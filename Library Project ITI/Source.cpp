@@ -816,14 +816,14 @@ void main_menu(vector <book> &books)
 		case 5:
 			system("cls");
 			update_book_method(books);
-			cout << "Press any key to go back... ";
+			cout << "Press any key to go back to main menu... ";
 			_getch();
 			break;
 
 		case 6:
 			system("cls");
 			Statistics_method(books);
-			cout << "Press any key to go back... ";
+			cout << "Press any key to go back to main menu... ";
 			_getch();
 			break;
 		case 7:
