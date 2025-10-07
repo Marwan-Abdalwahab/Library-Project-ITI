@@ -1,0 +1,65 @@
+the hobbit|j.r.r. tolkien|1937|fantasy|1|0|0
+the lord of the rings|j.r.r. tolkien|1954|fantasy|0|1|0
+1984|george orwell|1949|dystopian|1|0|0
+animal farm|george orwell|1945|political Satire|1|1|0
+to kill a mockingbird|harper lee|1960|classic|1|0|0
+the great gatsby|f. scott fitzgerald|1925|classic|0|1|0
+moby dick|Herman Melville|1851|classic|0|0|0
+pride and prejudice|jane austen|1813|romance|1|1|0
+wuthering heights|emily brontë|1847|romance|0|0|0
+brave new world|aldous huxley|1932|dystopian|0|1|0
+fahrenheit 451|ray bradbury|1953|dystopian|1|0|0
+the da vinci code|dan brown|2003|thriller|1|1|0
+angels and demons|dan brown|2000|thriller|0|0|0
+inferno|dan brown|2013|thriller|1|1|0
+it|stephen king|1988|horror|1|0|0
+the shining|stephen king|1977|horror|1|1|0
+doctor sleep|stephen king|2013|horror|0|1|0
+gone girl|gillian flynn|2012|thriller|1|0|0
+Sharp objects|gillian flynn|2006|thriller|0|0|0
+the alchemist|paulo coelho|1988|philosophy|1|1|0
+veronika decides to die|paulo coelho|1998|philosophy|0|0|0
+and the mountains echoed|khaled hosseini|2013|drama|0|0|0
+sapiens: a brief history of humankind|yuval noah harari|2011|history|1|1|0
+homo deus: a brief history of tomorrow|yuval noah harari|2015|history|0|1|0
+thinking, fast and slow|daniel kahneman|2011|psychology|1|1|0
+man's search for meaning|viktor frankl|1946 |psychology|1|0|0
+meditations|Marcus Aurelius|180|philosophy|0|1|0
+the republic|Plato|375|philosophy|1|0|0
+crime and punishment|fyodor dostoevsky|1866|classic|1|1|0
+the brothers karamazov|fyodor dostoevsky|1880|classic|0|1|1
+war and peace|leo tolstoy|1869|drama|0|0|0
+study in scarlet|arthur conan doyle|1887|thriller|1|1|0
+diamond dust|ahmed mourad|2010|thriller|1|1|0
+al zaitoon|zaitoon|2025|crime|0|1|1
+the giver|lois lowry|1993|dystopian|1|1|0
+paper towns|john green|2008|drama|0|0|0
+gone tomorrow|lee child|2009|thriller|1|0|0
+the road|cormac mccarthy|2006|drama|1|1|0
+dark matter|blake crouch|2016|sci-fi|0|1|0
+before sunrise|richard linklater|1995|romance|0|0|0
+the martian|andy weir|2011|sci-fi|1|1|0
+bird box|josh malerman|2014|horror|1|0|0
+no exit|taylor adams|2017|thriller|0|1|0
+the circle|dave eggers|2013|dystopian|0|0|0
+the outsider|stephen king|2018|thriller|1|1|0
+eleven minutes|paulo coelho|2003|drama|0|1|0
+the fault in our stars|john green|2012|drama|1|0|0
+digital fortress|dan brown|1998|thriller|1|1|0
+the beach|alex garland|1996|adventure|0|0|0
+life of pi|yann martel|2001|drama|1|0|0
+the firm|john grisham|1991|crime|1|1|0
+shutter island|dennis lehane|2003|thriller|1|1|0
+never let me go|kazuo ishiguro|2005|drama|0|0|0
+the judge|ian mcewan|1997|drama|0|1|0
+the cell|stephen king|2006|horror|1|0|0
+the host|stephenie meyer|2008|sci-fi|0|0|0
+little fires everywhere|celeste ng|2017|drama|1|1|0
+the room|emma donoghue|2010|drama|1|1|0
+the testaments|margaret atwood|2019|dystopian|0|1|0
+the whisper man|alex north|2019|thriller|1|0|0
+the last wish|andrzej sapkowski|1993|fantasy|1|1|0
+station eleven|emily st. john mandel|2014|drama|0|1|0
+the night agent|matthew quirk|2019|thriller|0|0|0
+long way down|jason reynolds|2017|drama|1|1|0
+misery|stephen king|1971|horror|1|0|1
