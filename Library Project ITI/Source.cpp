@@ -863,5 +863,4 @@ int main()
 	load_books_from_file(books, "lib.txt");
   
 	main_menu(books);
-
 }
